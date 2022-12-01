@@ -1,0 +1,29 @@
+[
+  {"id": "1","nome": "pizza fenomenale","descrizione": "pizza fenomenale","pz": 1,"prezzo": 13,"categoria": "pizza","ingredienti":[ 1,4,6,8,20]},
+
+  {"id": "2","nome": "pizza fresca","descrizione": "pizza fresca","pz": 1,"prezzo": 12,"categoria": "pizza","ingredienti":[ 2,4,15,14,20]},
+
+  {"id": "3","nome": "pizza norma","descrizione": "pizza norma","pz": 1,"prezzo": 12.5,"categoria": "pizza","ingredienti":[ 3,4,22,9]},
+
+  {"id": "4","nome": "pizza capricciosa","descrizione": "pizza capricciosa","pz": 1,"prezzo": 11,"categoria": "pizza","ingredienti":[ 3,4,26,9,20]},
+
+  {"id": "5","nome": "pizza romana","descrizione": "pizza romana","pz": 1,"prezzo": 7.5,"categoria": "pizza","ingredienti":[ 3,4,26,16]},
+
+  {"id": "6","nome": "pizza fantasy","descrizione": "pizza fantasy","pz": 1,"prezzo": 8,"categoria": "pizza","ingredienti":[ 3,4,21,9]},
+
+  {"id": "7","nome": "pizza salami","descrizione": "pizza salami","pz": 1,"prezzo": 9,"categoria": "pizza","ingredienti":[ 3,4,22,9,20]},
+
+  {"id": "8","nome": "pizza indish","descrizione": "pizza indish","pz": 1,"prezzo": 10.5,"categoria": "pizza","ingredienti":[ 1,5,23,9]},
+
+  {"id": "9","nome": "pizza good","descrizione": "pizza good","pz": 1,"prezzo": 10.2,"categoria": "pizza","ingredienti":[ 3,4,26,9]},
+
+  {"id": "10","nome": "pizza 4 stagioni","descrizione": "pizza 4 stagioni","pz": 1,"prezzo": 7.5,"categoria": "pizza","ingredienti":[ 2,4,25,9]},
+
+  {"id": "11","nome": "pizza fiorentina","descrizione": "pizza fiorentina","pz": 1,"prezzo": 6.5,"categoria": "pizza","ingredienti":[ 3,4,23,9]},
+
+  {"id": "12","nome": "pizza bufalina","descrizione": "pizza bufalina","pz": 1,"prezzo": 8,"categoria": "pizza","ingredienti":[ 3,4,26,9,19]},
+
+  {"id": "13","nome": "pizza canalicchio","descrizione": "pizza canalicchio","pz": 1,"prezzo": 12,"categoria": "pizza","ingredienti":[ 22,16,15,20]},
+
+  {"id": "14","nome": "pizza easy","descrizione": "pizza easy","pz": 1,"prezzo": 10,"categoria": "pizza","ingredienti":[ 3,4,26,9,20]}
+]

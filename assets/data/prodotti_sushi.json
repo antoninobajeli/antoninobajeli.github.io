@@ -1,0 +1,92 @@
+[
+  {
+    "id":"1",
+    "nome":"Hosomaki cetriolo",
+    "descrizione":"Hosomaki cetriolo",
+    "pz": 8,
+    "prezzo":7.00,
+    "categoria":"Hosomaki",
+    "ingredienti": [2,9]
+  },
+  {
+    "id":"2",
+    "nome":"Hosomaki avocado",
+    "descrizione":"Hosomaki avocado",
+    "pz": 8,
+    "prezzo":7.00,
+    "categoria":"Hosomaki",
+    "ingredienti": [2,1]
+  },
+  {
+    "id":"3",
+    "nome":"Hosomaki salmone",
+    "descrizione":"Hosomaki salmone",
+    "pz": 8,
+    "prezzo":9.00,
+    "categoria":"Hosomaki",
+    "ingredienti": [2,5]
+  },
+  {
+    "id":"4",
+    "nome":"Hosomaki tonno",
+    "descrizione":"Hosomaki tonno",
+    "pz": 8,
+    "prezzo":9.00,
+    "categoria":"Hosomaki",
+    "ingredienti": [2,6]
+  },
+  {
+    "id":"5",
+    "nome":"Hosomaki pesce bianco",
+    "descrizione":"Hosomaki pesce bianco",
+    "pz": 8,
+    "prezzo":9.00,
+    "categoria":"Hosomaki",
+    "ingredienti": [2,7]
+  }
+
+,
+  {
+    "id":"6",
+    "nome":"Hosomaki in tempura salmone",
+    "descrizione":"Hosomaki in tempura salmone",
+    "pz": 8,
+    "prezzo":9.00,
+    "categoria":"Hosomaki",
+    "ingredienti": [2,5]
+  }
+
+,
+  {
+    "id":"7",
+    "nome":"Hosomaki in tempura tonno",
+    "descrizione":"Hosomaki in tempura tonno",
+    "pz": 8,
+    "prezzo":9.00,
+    "categoria":"Hosomaki",
+    "ingredienti": [2,6]
+  }
+
+,
+  {
+    "id":"8",
+    "nome":"Hosomaki in tempura philadelphia",
+    "descrizione":"Hosomaki in tempura philadelphia",
+    "pz": 8,
+    "prezzo":9.00,
+    "categoria":"Hosomaki",
+    "ingredienti": [2,3]
+  }
+  ,
+  {
+    "id":"8",
+    "nome":"Hosomaki in tempura fragola cipolla",
+    "descrizione":"Hosomaki in tempura philadelphia",
+    "pz": 8,
+    "prezzo":9.00,
+    "categoria":"Hosomaki",
+    "ingredienti": [2,4,8]
+  }
+
+
+]
