@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "a17e5c9f010c43fe5a7f56bcbe8096d5",
-"index.html": "4fed83cafec086a70d4a888edc370a00",
-"/": "4fed83cafec086a70d4a888edc370a00",
+  "version.json": "ac9ffb552b56d978bf0b08e232d02cff",
+"index.html": "35b3edd3532d48b461194e4b0434da19",
+"/": "35b3edd3532d48b461194e4b0434da19",
 "firebase-messaging-sw.js": "5c5b7cb117d5caf4b5f7699dfb37a6ce",
-"main.dart.js": "54419da1ad1f56f8f2a7190db82cb5c0",
+"main.dart.js": "f6993aaabcc3d32efb36d3c1027c6c7c",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "5f9441042e15e154d6e47b81e6460e1d",
 "icons/Icon-192.png": "88033c8efdd27971e47f5123f16f4175",
@@ -15,7 +15,7 @@ const RESOURCES = {
 "icons/Icon-maskable-512.png": "8a6e9b1f12baef86e55be20ab23eda9d",
 "icons/Icon-512.png": "4ecfd0adbe622daf28d1354d8f4b2a4a",
 "manifest.json": "d0758b74a06eebf0f57234e290c8d0c9",
-"assets/AssetManifest.json": "5ae0cf1482539fc339333c976787aa63",
+"assets/AssetManifest.json": "2e722e381740c632dc64cf98292c28b0",
 "assets/NOTICES": "81fc843a9ac2f6814cdffbaa141aefb6",
 "assets/FontManifest.json": "96bc6a1bbccd7c216caa66d1414927f6",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
@@ -428,6 +428,7 @@ const RESOURCES = {
 "assets/packages/quisi_core_lib/assets/icon/quisi_logo_trasp.png": "d739cfe74a272d3517f4dce010063452",
 "assets/packages/quisi_core_lib/assets/icon/ico_delivered.png": "b80d9060e301a9fda29bbbc0346adccb",
 "assets/packages/quisi_core_lib/assets/icon/quisi_logo.png": "7194bc72d2c6b3b148b47b00241c7c3a",
+"assets/packages/quisi_core_lib/assets/icon/coin.png": "6845c2d6ca00288fc7c386d71a074a19",
 "assets/packages/quisi_core_lib/assets/icon/luna.svg": "32dc492edf3c7a1e021242fcc3c1cc3e",
 "assets/packages/quisi_core_lib/assets/icon/ico_lattosio.svg": "c044679d7b73ca88f6140e98c5446f4a",
 "assets/packages/quisi_core_lib/assets/icon/menu.svg": "37fe965719a31f3b4eae0825d2dae53d",
