@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"version.json": "7d3b37e8f1e1a01596531f0ac3862be0",
-"index.html": "dee894a449c53cdf8ebb019672de4a38",
-"/": "dee894a449c53cdf8ebb019672de4a38",
+const RESOURCES = {"version.json": "ea3c8e54f7ba3b35541c2135ff3e371b",
+"index.html": "fe533dfb32f6de235bcba3a291804945",
+"/": "fe533dfb32f6de235bcba3a291804945",
 "firebase-messaging-sw.js": "8b650d92a6d1ec4366eec43432698124",
-"main.dart.js": "2f0b5fec8d9d430a632eb149014c90ff",
+"main.dart.js": "37aa6812cbfd99233130e9a5ae728551",
 "flutter.js": "6fef97aeca90b426343ba6c5c9dc5d4a",
 "favicon.png": "5f9441042e15e154d6e47b81e6460e1d",
 "icons/Icon-192.png": "88033c8efdd27971e47f5123f16f4175",
@@ -437,7 +437,6 @@ const RESOURCES = {"version.json": "7d3b37e8f1e1a01596531f0ac3862be0",
 "assets/packages/quisi_core_lib/assets/icon/shop_bkgImageIco.png": "ee9783b2b64ad12a8e679215a18982b5",
 "assets/packages/quisi_core_lib/assets/icon/order_pick_up.svg": "6d976e096cecebb83386f6a1d4b392e7",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
-"assets/AssetManifest.smcbin": "d04b4cdb25701308c8742822cf80e801",
 "assets/AssetManifest.bin": "47bdecf42d18241d9704ae195af76355",
 "assets/fonts/MaterialIcons-Regular.otf": "60357fbd09b3a8abb2de7b0396e5d990",
 "assets/data/DemoSushi.json": "304a5b25764a4fa64cfc86744f8a550f",
